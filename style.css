@@ -255,7 +255,7 @@ transform: rotate(-15deg);
 }
 
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1368px) {
     .products_page .text_products h2{
         font-size: 30px;
         margin-left: 440px;
