@@ -279,7 +279,17 @@ transform: rotate(-15deg);
      
  
 }
+@media screen and (max-width: 1378) {
+    .products_page .text_products h2{
+        font-size: 35px;
+        margin-left: 70px;
 
+    }
+    .boximg img {
+        width: 100px;
+    }
+
+}
 @media screen and (max-width: 1500px) {
     .products_page .text_products h2{
         margin-left: 410px;
@@ -351,3 +361,10 @@ transform: rotate(-15deg);
         width: 240px;
         }
 }}
+
+
+@media screen and (max-width: 1920px) {
+    .products_page .text_products h2{
+        margin-left: 620px;
+    }
+}
