@@ -254,15 +254,29 @@ transform: rotate(-15deg);
     
 }
 
-@media screen and (max-width: 1378) {
+@media screen and (max-width: 1368px) {
     .products_page .text_products h2{
-        font-size: 35px;
-        margin-left: 500px;
+       font-size: 35px;
+    }
+    .text_products p {
+        font-size: 15px;
+        margin-top: 10px;
+        margin-left: 20px;
+        
+    }
 
+    .boximg img{
+        width: 160px;   
     }
-    .boximg img {
-        width: 100px;
+    .soda_types img {
+        height: 300px;
+        margin-left: 20px;
     }
+     .products_page {
+     width: 100%;
+     height: fit-content;
+     
+ 
 }
 
 
