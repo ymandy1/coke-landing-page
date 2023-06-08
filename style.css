@@ -254,6 +254,17 @@ transform: rotate(-15deg);
     
 }
 
+@media screen and (max-width: 1378) {
+    .products_page .text_products h2{
+        font-size: 35px;
+        margin-left: 500px;
+
+    }
+    .boximg img {
+        width: 100px;
+    }
+}
+
 
 
 
